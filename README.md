@@ -1,3 +1,8 @@
+# What you will get out of this site
+
+You can find max number of movies with their release date,ratings and with a few description.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
